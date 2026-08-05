@@ -15,7 +15,8 @@ questions:
   # 開発対象
   target:
     # ワークショップで開発対象に選んだプロダクトはなんですか？
-    ruby/time
+    ruby/time にあるサンプルコードの実行結果についての修正
+    PR https://github.com/ruby/time/pull/76
   # 今後のRubyエコシステムの開発への参加について
   future:
     # このワークショップで開発への参加の敷居は下がりましたか？
